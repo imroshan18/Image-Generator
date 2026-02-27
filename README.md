@@ -1,4 +1,4 @@
-# 🚀 SD-Turbo: Fast Local Real Photo Generation
+# 🚀 SD-Turbo: Fast Real Photo Generation
 
 A production-ready, open-source image generation system using Stable Diffusion Turbo for ultra-fast, photorealistic local inference.
 
